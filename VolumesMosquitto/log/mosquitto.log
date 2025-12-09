@@ -130,3 +130,45 @@
 1765273888: Sending PINGRESP to postman-mqtt-client-1765271992283
 1765273948: Received PINGREQ from postman-mqtt-client-1765271992283
 1765273948: Sending PINGRESP to postman-mqtt-client-1765271992283
+1765274008: Received PINGREQ from postman-mqtt-client-1765271992283
+1765274008: Sending PINGRESP to postman-mqtt-client-1765271992283
+1765274068: Received PINGREQ from postman-mqtt-client-1765271992283
+1765274068: Sending PINGRESP to postman-mqtt-client-1765271992283
+1765274128: Received PINGREQ from postman-mqtt-client-1765271992283
+1765274128: Sending PINGRESP to postman-mqtt-client-1765271992283
+1765274188: Received PINGREQ from postman-mqtt-client-1765271992283
+1765274188: Sending PINGRESP to postman-mqtt-client-1765271992283
+1765274248: Received PINGREQ from postman-mqtt-client-1765271992283
+1765274248: Sending PINGRESP to postman-mqtt-client-1765271992283
+1765274308: Received PINGREQ from postman-mqtt-client-1765271992283
+1765274308: Sending PINGRESP to postman-mqtt-client-1765271992283
+1765274368: Received PINGREQ from postman-mqtt-client-1765271992283
+1765274368: Sending PINGRESP to postman-mqtt-client-1765271992283
+1765274428: Received PINGREQ from postman-mqtt-client-1765271992283
+1765274428: Sending PINGRESP to postman-mqtt-client-1765271992283
+1765274450: mosquitto version 2.0.22 terminating
+1765275215: mosquitto version 2.0.22 starting
+1765275215: Config loaded from /mosquitto/config/mosquitto.conf.
+1765275215: Opening ipv4 listen socket on port 1883.
+1765275215: Opening ipv6 listen socket on port 1883.
+1765275215: Opening websockets listen socket on port 9005.
+1765275215: mosquitto version 2.0.22 running
+1765275701: New client connected from ::ffff:172.18.0.1:43206 as mqttx_ff9037f1 (p5, c1, k60).
+1765275701: No will message specified.
+1765275701: Sending CONNACK to mqttx_ff9037f1 (0, 0)
+1765275714: Received SUBSCRIBE from mqttx_ff9037f1
+1765275714: 	BTS (QoS 0)
+1765275714: mqttx_ff9037f1 0 BTS
+1765275714: Sending SUBACK to mqttx_ff9037f1
+1765275774: Received PINGREQ from mqttx_ff9037f1
+1765275774: Sending PINGRESP to mqttx_ff9037f1
+1765275834: Received PINGREQ from mqttx_ff9037f1
+1765275834: Sending PINGRESP to mqttx_ff9037f1
+1765275852: Received PUBLISH from mqttx_ff9037f1 (d0, q0, r0, m0, 'BTS', ... (35 bytes))
+1765275852: Sending PUBLISH to mqttx_ff9037f1 (d0, q0, r0, m0, 'BTS', ... (35 bytes))
+1765275871: Received PUBLISH from mqttx_ff9037f1 (d0, q0, r0, m0, 'BTS', ... (34 bytes))
+1765275871: Sending PUBLISH to mqttx_ff9037f1 (d0, q0, r0, m0, 'BTS', ... (34 bytes))
+1765275931: Received PINGREQ from mqttx_ff9037f1
+1765275931: Sending PINGRESP to mqttx_ff9037f1
+1765275991: Received PINGREQ from mqttx_ff9037f1
+1765275991: Sending PINGRESP to mqttx_ff9037f1
