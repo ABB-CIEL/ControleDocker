@@ -172,3 +172,19 @@
 1765275931: Sending PINGRESP to mqttx_ff9037f1
 1765275991: Received PINGREQ from mqttx_ff9037f1
 1765275991: Sending PINGRESP to mqttx_ff9037f1
+1765276051: Received PINGREQ from mqttx_ff9037f1
+1765276051: Sending PINGRESP to mqttx_ff9037f1
+1765276112: Received PINGREQ from mqttx_ff9037f1
+1765276112: Sending PINGRESP to mqttx_ff9037f1
+1765276173: Received PINGREQ from mqttx_ff9037f1
+1765276173: Sending PINGRESP to mqttx_ff9037f1
+1765276258: Received PINGREQ from mqttx_ff9037f1
+1765276258: Sending PINGRESP to mqttx_ff9037f1
+1765276348: Client mqttx_ff9037f1 closed its connection.
+1765276498: New client connected from ::ffff:172.18.0.1:58590 as mqttx_ff9037f1 (p5, c1, k60).
+1765276498: No will message specified.
+1765276498: Sending CONNACK to mqttx_ff9037f1 (0, 0)
+1765276558: Client mqttx_ff9037f1 closed its connection.
+1765276618: New client connected from ::ffff:172.18.0.1:53550 as mqttx_ff9037f1 (p5, c1, k60).
+1765276618: No will message specified.
+1765276618: Sending CONNACK to mqttx_ff9037f1 (0, 0)
